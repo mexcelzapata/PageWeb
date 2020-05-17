@@ -1,0 +1,28 @@
+.carousel-item{
+    height: 70vh;
+}
+
+.carousel-item img {
+    height: 70vh;
+}
+
+.social-icon {
+    font-size:48px;
+}
+#footer{
+    background-color: #FFF1F1 ;
+    position: absolute;
+    width: 100%;
+    
+}
+.text-footer{
+    background-color: white;
+}
+.image {
+    width:400px;
+    position: center;
+    height: 400px;
+    }
+.imagee{
+    width: 80%;
+}
