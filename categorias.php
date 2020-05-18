@@ -21,7 +21,7 @@ $categorias = $controller->findAllCat();
                             ?>
 
                             <div class="card">
-                                    <img class="card-img-top " src="<?php echo $entry['image']?>" alt="">
+                                    <img class="card-img-top image" src="<?php echo $entry['image']?>" alt="">
                                     <div class="card-body">
                                     <h5 class="card-title"><?php echo $entry["name"]?></h5>
                                     <p class="card-text"><?php echo $entry["desc"]?></p>
@@ -42,3 +42,4 @@ $categorias = $controller->findAllCat();
         </div>    
     </div>            
 </div>
+
